@@ -1,3 +1,44 @@
 [
- 
+  {
+    "name": "Miss Cathy Mitchell",
+    "phone": "1-607-381-5183 x6978",
+    "email": "Sabrina_Schneider81@yahoo.com",
+    "job": "National Identity Liaison"
+  },
+  {
+    "name": "Lauren Schulist DVM",
+    "phone": "1-742-864-3584 x69341",
+    "email": "Alford_Vandervort@hotmail.com",
+    "job": "Investor Marketing Supervisor"
+  },
+  {
+    "name": "Delbert Spinka",
+    "phone": "325-965-8739 x6450",
+    "email": "Marques26@hotmail.com",
+    "job": "Forward Creative Technician"
+  },
+  {
+    "name": "Estelle Schuppe",
+    "phone": "(512) 917-3506 x483",
+    "email": "Rod.Mayer@yahoo.com",
+    "job": "Investor Operations Architect"
+  },
+  {
+    "name": "Angela Cruickshank DDS",
+    "phone": "1-371-972-0431",
+    "email": "Daphnee72@yahoo.com",
+    "job": "Principal Implementation Analyst"
+  },
+  {
+    "name": "Kelly Marquardt",
+    "phone": "833.776.2639 x0757",
+    "email": "Maximus86@gmail.com",
+    "job": "International Accountability Consultant"
+  },
+  {
+    "name": "Cristina Hane",
+    "phone": "561-999-3081",
+    "email": "Charlie_Schultz@yahoo.com",
+    "job": "Corporate Division Technician"
+  }
 ]

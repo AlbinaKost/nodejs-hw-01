@@ -1,8 +1,9 @@
 {
   "name": "nodejs-hw-01",
   "version": "1.0.0",
-  "description": "",
+  "description": "goit-nodejs-hw-01",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "get-all": "node src/scripts/getAllContacts.js",
     "generate": "node src/scripts/generateContacts.js",
