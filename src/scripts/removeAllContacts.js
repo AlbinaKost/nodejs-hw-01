@@ -3,7 +3,7 @@ import { PATH_DB } from '../constants/contacts.js';
 
 export const removeAllContacts = async () => {
     try {
-        await fs.unlink(PATH_DB, JSON.stringify([]));
+        await fs.writeFile(PATH_DB, JSON.stringify([]));
     } catch (error) {
         console.log(error);
     }
